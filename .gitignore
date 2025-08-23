@@ -1,3 +1,6 @@
-*.xcuserdatad
-*.xcscmblueprint
+# macOS system files
 .DS_Store
+
+# Xcode user-specific files
+xcuserdata/
+*.xcuserstate
